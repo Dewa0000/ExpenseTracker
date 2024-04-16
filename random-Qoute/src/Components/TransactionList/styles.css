@@ -1,0 +1,21 @@
+.history{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.minus1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
